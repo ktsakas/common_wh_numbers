@@ -1,4 +1,6 @@
-# Common energy consumption numbers (Wh) every household should know
+# Energy consumption numbers (Wh) every household should know
+
+![Wh numbers to know](https://raw.githubusercontent.com/ktsakas/common_wh_numbers/main/wh_consumption_poster.png)
 
 |Device                          |Wh                      |Source                                                                                                                                             |
 |--------------------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
