@@ -21,8 +21,9 @@
 |Oven                            |2500Wh                  |                                                                                                                                                   |
 |Clothes Dryer                   |3000Wh                  |                                                                                                                                                   |
 |Electric Vehicle (Tesla Model 3 - 50miles @ 50miles/hour or 80km / hour) |12kWh                   |                                                                                                                                                   |
-|Device                          |60kWh                   |https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent                                                                                           |
-|Device                          |70kWh                   |                                                                                                                                                   |
-|Device                          |220kWh                  |https://www.quora.com/What-kind-of-fuel-mileage-does-a-jet-airliner-say-A320-B777-ER-achieve https://www.airliners.net/aircraft-data/airbus-a320/23|
+|Gas Car                         |60kWh                   |https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent                                                                                           |
+|Cruise Ship                     |70kWh                   |                                                                                                                                                   |
+|Airplane                        |220kWh                  |https://www.quora.com/What-kind-of-fuel-mileage-does-a-jet-airliner-say-A320-B777-ER-achieve
+https://www.airliners.net/aircraft-data/airbus-a320/23|
 |Human (at 2500 calories per day)|130Wh                   |                                                                                                                                                   |
 |Solar panel m^2                 |200W                    |#NAME?                                                                                                                                             |
